@@ -15,14 +15,14 @@ We have retained a complete set of raw data, including questionnaires (papers co
 ...
 
 ## Introduction
-Aydan & Atilla   
+Aydan    
 
 ## Methodology
 ... Aki
 
 ## Results
 ... 
-
+Atilla
 ## Discussion
 ... 
 
