@@ -30,5 +30,3 @@ Deadline: 16th Nov Sun 23:59
  
 
 Official Submission deadline: 10th Dec Wed 10:00 
-
-*N.B. Add more bullet points as necessary.*
