@@ -1,14 +1,19 @@
 # Group Research Project Report
 
 ## Team Members:
-1. Abdubalieva Akmaral
-2. Aguilar Attila Sebastian
-3. Sadigova Aydan
+1. Sadigova Aydan
+2. Abdubalieva Akmaral
+3. Aguilar Attila Sebastian
 
+reqs: between 1,800 and 2,200 words, excluding code snippets, tables, and data visualizations; structure, clarity, use of tables, lists, and code blocks (as applicable).
 
 ## Declaration
-[ChatGPT 5.0] was used to [brainstorm themes and structure] for this group research project report on [topic]. Prompt: '...' No AI-generated text is included in the final submission. Accessed: [Date]. Available at: https://chat.openai.com/.
+ChatGPT 5.0 was used to brainstorm and research key concepts for this group research project report on image style perception. 
+Prompts: 
+- ' Introduce the topic of lifestyle and studio images in ecommerce"
+- ' How can a/b testing be implemented using surveys if cannot use website/retailer tools"
 
+No AI-generated text is included in the final submission. Accessed: [15.10.2025]. Available at: https://chat.openai.com/.
 We have retained a complete set of raw data, including questionnaires (papers completed by hand or record downloaded from the online survey platform), recordings, and/or transcripts of interviews, secondary data, etc., as well as data analysis files and documents. 
 
 ## Executive Summary  [_A concise overview of the business problem, research objectives, key findings, and actionable recommendations. This section should be no longer than 250 words and written so that a decision-maker could understand the main outcomes without reading the full report._]
@@ -19,11 +24,6 @@ We have retained a complete set of raw data, including questionnaires (papers co
 
 Online shopping is becoming more frequent and valuable as a result of the growth in the number of people using the Internet on a daily basis. Consequently, majority of the companies paying more attention on the pictures of products to advertise on their websites. However, nowadays picture styles became more complex and require more deep understanding of human psychology. The following report analyses the team's collaboration on the joint UX analytics project- “Product Image Style and Purchase Intent”. The main aim of the research was to examine how product photo styles can influence consumers' attitudes including intention to purchase and trust for the brand, towards online shopping. A picture of the product in use and an image of the product on an ordinary background were the two varieties of images that were compared in the research. Two different gender-natural products- lamps and glasses were selected for the project. The pictures did not contain any brand or logo to ensure to avoid unbiased decisions. 
 Our team collaborated in VistaCommerce company, a global software that provides online retailers with design and optimisation tools and mainly operates in fashion, home goods, and cosmetics industries. In order to assist company’s clients in making better marketing decisions, our team worked on gathering, conducting A/B test and analysing the collected data to measure customer’s engagement with two different types of the pictures. In order to inform the marketing and design decisions, the results will be shared with the Director of Product Design along with key client stakeholders.
-
-### Case
-
-### Literature Review
-
 
 ## Methodology [_For survey research, describe the survey design, sampling method, and data collection process. For A/B testing, explain the experiment setup, control/treament groups, and metrics for evaluation_]
 
@@ -72,7 +72,9 @@ Recommendations and their expected impact:
 
 ## Reflection on Team Process  [_Briefly reflect on how your team applied Agile principles during the project, including sprint planning, stand-ups, and retrospectives. Comment on any challenges encountered, how they were addressed, and notable successes in your collaboration_]
 
-(it's just a draft version) We had sprint planning and stand-up calls. Before first call, we have agreed to do literature review on the topic indvidually and during the call we distributed research report sections we are responsible for. However, soon enough after the call, we noticed that the writing cannot be coordinated well before we design the survey and collect data, hence there was another call organized during which we did iteration of our plans and redistributed tasks according to both functions and writing sections. Akmaral took responsibility for designing the survey, writing methodology section, guiding the github use, as well as documenting the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. Aydan's responsibilities remained similar as she was responsible for Introduction section writing, actively promoting survey, preparing presentation file (?). Discussion and recommendations sections agreed to work together on(?). 
+We had sprint planning and stand-up calls. Before first call, we have agreed to do literature review on the topic indvidually and during the call we distributed research report sections we are responsible for. However, soon enough after the call, we noticed that the writing cannot be coordinated well before we design the survey and collect data, hence there was another call organized during which we did iteration of our plans and redistributed tasks according to both functions and writing sections. Akmaral took responsibility for designing the survey, writing methodology section, guiding the github use, as well as documenting the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. Aydan's responsibilities remained similar as she was responsible for Introduction section writing, actively promoting survey, preparing presentation file (?). Discussion and recommendations sections agreed to work together on(?). 
+* Use of Collaborative Tools and Agile Methodologies [20%]. Demonstration of effective use of GitHub for collaboration, including branching, pull requests, and issue tracking. Evidence of applying Agile methodologies (e.g., sprint planning, retrospectives) and documentation of these processes. Teamwork and Collaboration [10%]. Evidence of effective teamwork, adaptability, and interpersonal skills. Balanced contributions from all team members.
+
 
 ## References and Appendices
 
@@ -86,15 +88,7 @@ Komolov, A. (2025). eCommerce return rate statistics and insights for 2025. Outv
 
 Wang, J., Wang, A., Zhu, L. and Wang, H. (2021) The Effect of Product Image Dynamism on Purchase Intention for Online Aquatic Product Shopping: An EEG Study. Behavioural Neurology, 2021, pp. 1–11. DOI: 10.2147/PRBM.S313742
 
-## grading criteria (delete these sections before final submission)
 
-Submission Guidelines
-Word Count. The main body of the report should be between 1,800 and 2,200 words, excluding code snippets, tables, and data visualizations. Reports outside this range lose 10 points from the final mark. Reports below 1,600 words are rejected.
-Minimum Credible Five Sources Over and Beyond Those Assigned in Class. Your report must reference at least five credible sources to support your research and analysis, preferably, related to the subject of your research.
 
-Your group project will be assessed according to the following criteria, which are directly aligned with the intended learning outcomes:
-Markdown Proficiency [20%]. Effective use of Markdown format for organizing and presenting project documentation. Includes structure, clarity, use of tables, lists, and code blocks (as applicable).
-Use of Collaborative Tools and Agile Methodologies [20%]. Demonstration of effective use of GitHub for collaboration, including branching, pull requests, and issue tracking. Evidence of applying Agile methodologies (e.g., sprint planning, retrospectives) and documentation of these processes.
-Data Synthesis and Critical Analysis [30%]. Quality and depth of data analysis. Ability to critically evaluate data and draw meaningful conclusions. Discussion of biases, limitations, and challenges.
-Communication of Data Insights [20%]. Clarity and effectiveness of communicating key insights, using appropriate visualizations and storytelling techniques. Consideration of how findings apply in a professional context.
-Teamwork and Collaboration [10%]. Evidence of effective teamwork, adaptability, and interpersonal skills. Balanced contributions from all team members.
+
+
