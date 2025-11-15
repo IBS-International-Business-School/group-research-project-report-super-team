@@ -18,15 +18,23 @@ We have retained a complete set of raw data, including questionnaires (papers co
 
 ## Executive Summary  [_A concise overview of the business problem, research objectives, key findings, and actionable recommendations. This section should be no longer than 250 words and written so that a decision-maker could understand the main outcomes without reading the full report._]
 
-Online shopping is becoming more frequent and valuable as a result of the growth in the number of people using the Internet on a daily basis. Consequently, majority of the companies paying more attention on the pictures of products to advertise on their websites. However, nowadays picture styles became more complex and require more deep understanding of human psychology. Our research collaborated with VistaCommerce company, a global software that provides online retailers with design and optimisation tools and mainly operates in fashion, home goods, and cosmetics industries. In order to assist company’s clients in choosing between studio and lifestyle images for presenting the products, our team conducted A/B test using a product from fashion sector (glasses) and a home goods product (lamp). 
+Evident growth of ecommerce (Karl, 2024) has increased the scope of strategies to attract customers and boost sales. Among many strategies and tools, product presentation style remains as a major consumer behavior factor(Musyarrofah, 2024). However, there are several styles existing in this field and all require complex consumer analysis. Our research focused on perception analysis of two presentation styles in ecommerce, studio and lifestyle images, to help VistaCommerce company, a global software that provides online retailers with design and optimisation tools and mainly operates in fashion, home goods, and cosmetics industries. In order to assist company’s clients in choosing between two styles, our team conducted A/B test using a product from fashion sector (glasses) and a home goods product (lamp). 
 
 The main aim of the research was to examine the relationship between image style and consumers' engagement, perceived trust, and purchase intent and provide applicable insights towards decision-making of VistaCommerce company.
  
 key findings: 
 
+(Atilla)
+
 actionable recommendations:
 
+Combine both for more efficiency and coverage of consumer preferences. If had to choose one only , then the _ image style. 
+
 ## Introduction [_Clearly define your research question, hypothesis (for A/B testing), or objective (for survey research)_]
+
+research question, 
+
+hypothesis (for A/B testing),
 
 
 ## Methodology [_For survey research, describe the survey design, sampling method, and data collection process. For A/B testing, explain the experiment setup, control/treament groups, and metrics for evaluation_]
@@ -82,6 +90,11 @@ We had sprint planning and stand-up calls. Before first call, we have agreed to 
 
 ## References and Appendices
 
+Karl, D. (2024) Forecasting e-commerce consumer returns: a systematic literature review. Management Review Quarterly, 75(3), pp. 1-56. doi:10.1007/s11301-024-00436-x.
+
+
+Musyarrofah, Z. (2024) The influence of product presentation in online fashion retail on purchase decisions with shopping lifestyle as a moderating variable. Indonesian Interdisciplinary Journal of Sharia Economics, 7(3), pp. 8143-8161. doi:10.31538/ijse.v7i3.5931.
+
 Li, X., Wang, M. & Chen, Y. (2014) The impact of product photo on online consumer purchase intention: An image-processing enabled empirical study. Pacific Asia Conference on Information Systems. Available at: https://www.researchgate.net/publication/287267271_The_impact_of_product_photo_on_online_consumer_purchase_intention_An_image-processing_enabled_empirical_study [Accessed on 18 Oct. 2025]
 
 Maier, E., and Dost, F. (2018). Fluent contextual image backgrounds enhance mental imagery and evaluations of experience products. Journal of Retailing and Consumer Services [online] 45, pp. 207–220. Available at: Fluent contextual image backgrounds enhance mental imagery and evaluations of experience products - Lancaster EPrints [Accessed on 14 Nov. 2025]
@@ -91,6 +104,8 @@ Kim, Y. K. and Sullivan, P. (2019). Emotional branding speaks to consumers ‘he
 Komolov, A. (2025). eCommerce return rate statistics and insights for 2025. Outvio [online]. Available at: eCommerce Return Rate Statistics and Insights 2025 [Accessed on 15 Nov. 2025]
 
 Wang, J., Wang, A., Zhu, L. and Wang, H. (2021) The Effect of Product Image Dynamism on Purchase Intention for Online Aquatic Product Shopping: An EEG Study. Behavioural Neurology, 2021, pp. 1–11. DOI: 10.2147/PRBM.S313742
+
+
 
 
 
