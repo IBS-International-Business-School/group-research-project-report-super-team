@@ -22,19 +22,19 @@ Evident growth of ecommerce (Karl, 2024) has increased the scope of strategies t
 
 The main aim of the research was to examine the relationship between image style and consumers' engagement, perceived trust, and purchase intent and provide applicable insights towards decision-making of VistaCommerce company.
  
-key findings: 
+(key findings:)
 
 (Atilla)
 
-actionable recommendations:
+(actionable recommendations:)
 
 Combine both for more efficiency and coverage of consumer preferences. If had to choose one only , then the _ image style. 
 
 ## Introduction [_Clearly define your research question, hypothesis (for A/B testing), or objective (for survey research)_]
 
-research question, 
+(research question) 
 
-hypothesis (for A/B testing),
+(hypothesis (for A/B testing))
 
 
 ## Methodology [_For survey research, describe the survey design, sampling method, and data collection process. For A/B testing, explain the experiment setup, control/treament groups, and metrics for evaluation_]
@@ -57,7 +57,7 @@ As accordance to Li, Wang and Chen (2014), image of the products are one of the 
 
 On the other hand, Maier and Dost (2018) cited product images with a fitting contextual background, as opposed to a plain white background contributes to consumers mental imaginary and helps them to engage more with the product. Furthermore, images with plain backgrounds do not provide necessary clues regarding how it would fit or how consumers can utilize it. In fact, this would give customers a chance to have a clear understanding of size, shape and function. Accordingly, a report (Komolov, 2025) conducted to analyze the reason for high return rates also suggests that one of the primary reasons for high returns is incorrect expectations regarding size, fitness and quality. Therefore, the usage of life-style images would eliminate such risks of these cases. According to Wang et al. (2021), product photos with dynamic or context-rich images can help buyers visualize the product more vividly, which can contribute on purchase intention. Based on their findings, when a product is presented in a way that matches its actual use, people are more likely to have positive opinions of it and to be less unsure about it. In addition, Kim and Sullivan (2019) claim that consumers are more likely to engage with a brand when its visual presentation stimulates emotions, experiences, and authenticity. Since lifestyle images enable buyers to have an imagined view, they generate greater engagement than plain studio photos. These findings would support the results of our survey in which both products had higher votes for lifestyle images compared to studio images. 
 
-of the findings:
+(immplications oof the findings:
 
 Limitations:
 - Time 
@@ -70,28 +70,27 @@ Biases:
 Challenges faced:
 - No active retail shop website to implement original A/B test
 - Getting wider sample of respondents with differing backgrounds
-- 
+  )
 
 
 ## Recommendations  [_Summarise the key insights from the project and suggest specific, actionable business or real-world applications. Where relevant, prioritise your recommendations and explain their expected impact_]
 
-Key insights:
+(Key insights:)
 
 Actionable business or real-world applications:
 
-Recommendations and their expected impact:
+(Recommendations and their expected impact)
 
 
 ## Reflection on Team Process  [_Briefly reflect on how your team applied Agile principles during the project, including sprint planning, stand-ups, and retrospectives. Comment on any challenges encountered, how they were addressed, and notable successes in your collaboration_]
 
-We had sprint planning and stand-up calls. Before first call, we have agreed to do literature review on the topic indvidually and during the call we distributed research report sections we are responsible for. However, soon enough after the call, we noticed that the writing cannot be coordinated well before we design the survey and collect data, hence there was another call organized during which we did iteration of our plans and redistributed tasks according to both functions and writing sections. Akmaral took responsibility for designing the survey, writing methodology section, guiding the github use, as well as documenting the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. Aydan's responsibilities remained similar as she was responsible for Introduction section writing, actively promoting survey, preparing presentation file (?). Discussion and recommendations sections agreed to work together on(?). 
-* Use of Collaborative Tools and Agile Methodologies [20%]. Demonstration of effective use of GitHub for collaboration, including branching, pull requests, and issue tracking. Evidence of applying Agile methodologies (e.g., sprint planning, retrospectives) and documentation of these processes. Teamwork and Collaboration [10%]. Evidence of effective teamwork, adaptability, and interpersonal skills. Balanced contributions from all team members.
+We successfully used collaborative features of Github by creating brunches and pull requests and then merging them. Teamwork and collaboration went smooth with team members being equally involved and supportive of each other. We implemented Agile methodologies by having sprint meetings where we distributed our roles, goals, and deadlines and documented it. We had quick standups/calls where we solved occuring problems if someone was stuck or needed guidance with Github. Majority of communication was done through Teams calls and group chat. Before first call, we have agreed to do literature review on the topic indvidually and during the call we distributed research report sections we are responsible for. However, soon enough after the call, we noticed that the writing cannot be coordinated well before we design the survey and collect data, hence there was another call organized during which we did iteration of our plans and redistributed tasks according to both functions and writing sections. Akmaral took responsibility for designing the survey, writing methodology section, guiding the github use, as well as documenting and guiding the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. And Aydan helped to finish writing the report collecting references and finalizing the document.
+
 
 
 ## References and Appendices
 
 Karl, D. (2024) Forecasting e-commerce consumer returns: a systematic literature review. Management Review Quarterly, 75(3), pp. 1-56. doi:10.1007/s11301-024-00436-x.
-
 
 Musyarrofah, Z. (2024) The influence of product presentation in online fashion retail on purchase decisions with shopping lifestyle as a moderating variable. Indonesian Interdisciplinary Journal of Sharia Economics, 7(3), pp. 8143-8161. doi:10.31538/ijse.v7i3.5931.
 
