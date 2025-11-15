@@ -82,7 +82,7 @@ Actionable business or real-world applications:
 (Recommendations and their expected impact)
 
 
-## Reflection on Team Process  [_Briefly reflect on how your team applied Agile principles during the project, including sprint planning, stand-ups, and retrospectives. Comment on any challenges encountered, how they were addressed, and notable successes in your collaboration_]
+## Reflection on Team Process 
 
 We successfully used collaborative features of Github by creating brunches and pull requests and then merging them. Teamwork and collaboration went smooth with team members being equally involved and supportive of each other. We implemented Agile methodologies by having sprint meetings where we distributed our roles, goals, and deadlines and documented it. We had quick standups/calls where we solved occuring problems if someone was stuck or needed guidance with Github. Majority of communication was done through Teams calls and group chat. Before first call, we have agreed to do literature review on the topic indvidually and during the call we distributed research report sections we are responsible for. However, soon enough after the call, we noticed that the writing cannot be coordinated well before we design the survey and collect data, hence there was another call organized during which we did iteration of our plans and redistributed tasks according to both functions and writing sections. Akmaral took responsibility for designing the survey, writing methodology section, guiding the github use, as well as documenting and guiding the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. And Aydan helped to finish writing the report collecting references and finalizing the document.
 
