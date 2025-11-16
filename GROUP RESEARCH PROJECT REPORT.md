@@ -32,9 +32,10 @@ Combine both for more efficiency and coverage of consumer preferences. If had to
 
 ## Introduction [_Clearly define your research question, hypothesis (for A/B testing), or objective (for survey research)_]
 
-(research question) 
+To assess how image style influences user responses, two hypothesis tests were conducted using the A/B test data. The analysis examined whether lifestyle images lead to higher perceived engagement and whether they improve purchase-related perceptions such as Trust and Information Clarity. The hypotheses and key outcomes are summarized below.
+For Hypothesis Test 1, we examined the construct of Engagement, guided by the research question: “Do lifestyle product images increase perceived engagement?” The null hypothesis (H₀) stated that lifestyle images do not increase perceived engagement compared to studio images, while the alternative hypothesis (H₁) proposed that lifestyle images lead to higher perceived engagement. 
+For Hypothesis Test 2, we evaluated purchase-related perceptions, specifically Trust and Information Clarity, based on the research question: “Do lifestyle product images improve purchase-related perceptions?” The null hypothesis (H₀) stated that lifestyle images do not improve Trust or Information Clarity relative to studio images, whereas the alternative hypothesis (H₁) suggested that lifestyle images increase these perceptions. 
 
-(hypothesis (for A/B testing))
 
 
 ## Methodology [_For survey research, describe the survey design, sampling method, and data collection process. For A/B testing, explain the experiment setup, control/treament groups, and metrics for evaluation_]
