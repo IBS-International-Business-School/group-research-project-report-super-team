@@ -57,20 +57,11 @@ As accordance to Li, Wang and Chen (2014), image of the products are one of the 
 
 On the other hand, Maier and Dost (2018) cited product images with a fitting contextual background, as opposed to a plain white background contributes to consumers mental imaginary and helps them to engage more with the product. Furthermore, images with plain backgrounds do not provide necessary clues regarding how it would fit or how consumers can utilize it. In fact, this would give customers a chance to have a clear understanding of size, shape and function. Accordingly, a report (Komolov, 2025) conducted to analyze the reason for high return rates also suggests that one of the primary reasons for high returns is incorrect expectations regarding size, fitness and quality. Therefore, the usage of life-style images would eliminate such risks of these cases. According to Wang et al. (2021), product photos with dynamic or context-rich images can help buyers visualize the product more vividly, which can contribute on purchase intention. Based on their findings, when a product is presented in a way that matches its actual use, people are more likely to have positive opinions of it and to be less unsure about it. In addition, Kim and Sullivan (2019) claim that consumers are more likely to engage with a brand when its visual presentation stimulates emotions, experiences, and authenticity. Since lifestyle images enable buyers to have an imagined view, they generate greater engagement than plain studio photos. These findings would support the results of our survey in which both products had higher votes for lifestyle images compared to studio images. 
 
-(immplications oof the findings:
+Furthermore, there were a few limitations with our project that could have affected the results. Firstly, time scope was very short therefore sample size stayed relatively small. The age group mostly ranged between 21-29 and no answer received for people over 39 which means the results may not fully reflect the larger group online shoppers.  Moreover, only two different products- lamps and sunglasses- were able to be present but it is worth mentioning that the results might not apply for all product categories. Having more time range and resources could give us a chance to test more items and collect more balanced and wide samples.
 
-Limitations:
-- Time 
-- Respondents demographics
-- 
-Biases:
-- Self-reported opinions may not reflect actual behavior
-- Product biases instead of image style
-- 
-Challenges faced:
-- No active retail shop website to implement original A/B test
-- Getting wider sample of respondents with differing backgrounds
-  )
+There are also a number of potential biases to be considered. Since the survey was based on self-reported opinions, the results might not be same for actual purchasing activity. People usually act differently on purchasing websites than what they answer on questionnaires. Furthermore, participants have different preferences for products regardless of the image styles. 
+
+Besides biases and limitations, we had some challenges as well. The primary challenge could be not being able to test our survey on a real website, which would have provided more accurate data. Finding variety of participants from different demographics and age groups could be another challenge. The majority of the participants were from Hungary or Azerbaijan and between 21-29 ages, which had an impact on the sample's diversity as well. 
 
 
 ## Recommendations  [_Summarise the key insights from the project and suggest specific, actionable business or real-world applications. Where relevant, prioritise your recommendations and explain their expected impact_]
@@ -90,13 +81,13 @@ We successfully used collaborative features of Github by creating brunches and p
 
 ## References and Appendices
 
-Karl, D. (2024) Forecasting e-commerce consumer returns: a systematic literature review. Management Review Quarterly, 75(3), pp. 1-56. doi:10.1007/s11301-024-00436-x.
-
-Musyarrofah, Z. (2024) The influence of product presentation in online fashion retail on purchase decisions with shopping lifestyle as a moderating variable. Indonesian Interdisciplinary Journal of Sharia Economics, 7(3), pp. 8143-8161. doi:10.31538/ijse.v7i3.5931.
-
 Li, X., Wang, M. & Chen, Y. (2014) The impact of product photo on online consumer purchase intention: An image-processing enabled empirical study. Pacific Asia Conference on Information Systems. Available at: https://www.researchgate.net/publication/287267271_The_impact_of_product_photo_on_online_consumer_purchase_intention_An_image-processing_enabled_empirical_study [Accessed on 18 Oct. 2025]
 
 Maier, E., and Dost, F. (2018). Fluent contextual image backgrounds enhance mental imagery and evaluations of experience products. Journal of Retailing and Consumer Services [online] 45, pp. 207–220. Available at: Fluent contextual image backgrounds enhance mental imagery and evaluations of experience products - Lancaster EPrints [Accessed on 14 Nov. 2025]
+
+Musyarrofah, Z. (2024) The influence of product presentation in online fashion retail on purchase decisions with shopping lifestyle as a moderating variable. Indonesian Interdisciplinary Journal of Sharia Economics, 7(3), pp. 8143-8161. doi:10.31538/ijse.v7i3.5931.
+
+Karl, D. (2024) Forecasting e-commerce consumer returns: a systematic literature review. Management Review Quarterly, 75(3), pp. 1-56. doi:10.1007/s11301-024-00436-x.
 
 Kim, Y. K. and Sullivan, P. (2019). Emotional branding speaks to consumers ‘heart: the case of fashion brands. Fashion and Textiles 6(2), pp. 1-16. DOI: 10.1186/s40691-018-0164-y
 
