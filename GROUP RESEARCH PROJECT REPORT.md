@@ -32,11 +32,12 @@ Combine both for more efficiency and coverage of consumer preferences. If had to
 
 ## Introduction [_Clearly define your research question, hypothesis (for A/B testing), or objective (for survey research)_]
 
-To assess how image style influences user responses, two hypothesis tests were conducted using the A/B test data. The analysis examined whether lifestyle images lead to higher perceived engagement and whether they improve purchase-related perceptions such as Trust and Information Clarity. The hypotheses and key outcomes are summarized below.
+This study aims to examine how different product image styles influence user perceptions in an online shopping context, with a specific focus on determining whether lifestyle imagery provides measurable advantages over traditional studio photography. The goal is to assess whether lifestyle images lead to higher perceived Engagement and whether they improve purchase-related perceptions two constructs that play a central role in online decision-making. To evaluate these effects, two hypothesis tests were conducted using controlled A/B survey experiments.
 
-For Hypothesis Test 1, we examined the construct of Engagement, guided by the research question: “Do lifestyle product images increase perceived engagement?” The null hypothesis (H₀) states that lifestyle images do not increase perceived engagement compared to studio images, while the alternative hypothesis (H₁) proposes that lifestyle images lead to higher perceived engagement. 
+For Hypothesis Test 1, we investigated the construct of Engagement, guided by the research question: “Do lifestyle product images increase perceived engagement compared to studio images?” The null hypothesis (H₀) stated that lifestyle images do not increase perceived engagement, while the alternative hypothesis (H₁) proposed that they do increase engagement.
 
-For Hypothesis Test 2, we evaluated purchase-related perceptions, specifically Trust and Information Clarity, based on the research question: “Do lifestyle product images improve purchase-related perceptions?” The null hypothesis (H₀) states that lifestyle images do not improve Trust or Information Clarity relative to studio images, whereas the alternative hypothesis (H₁) suggests that lifestyle images increase these perceptions. 
+For Hypothesis Test 2, we examined purchase-related perceptions, specifically Trust and Information Clarity, based on the research question: “Do lifestyle product images improve purchase-related perceptions?” The null hypothesis (H₀) stated that lifestyle images do not improve Trust or Information Clarity, while the alternative hypothesis (H₁) proposed that they do enhance these perceptions.
+
 
 
 
