@@ -32,14 +32,11 @@ Combine both for more efficiency and coverage of consumer preferences. If had to
 
 ## Introduction [_Clearly define your research question, hypothesis (for A/B testing), or objective (for survey research)_]
 
-This study aims to examine how different product image styles influence user perceptions in an online shopping context, with a specific focus on determining whether lifestyle imagery provides measurable advantages over traditional studio photography. The goal is to assess whether lifestyle images lead to higher perceived Engagement and whether they improve purchase-related perceptions two constructs that play a central role in online decision-making. To evaluate these effects, two hypothesis tests were conducted using controlled A/B survey experiments.
+Online shopping is becoming more frequent and valuable as a result of the growth in the number of people using the Internet on a daily basis. Consequently, majority of the companies paying more attention on the pictures of products to advertise on their websites. However, nowadays picture styles became more complex and require more deep understanding of human psychology. This study aims to examine how different product image styles influence user perceptions in an online shopping context, with a specific focus on determining whether lifestyle imagery provides measurable advantages over traditional studio photography. The goal is to assess whether lifestyle images lead to higher perceived Engagement and whether they improve purchase-related perceptions two constructs that play a central role in online decision-making. To evaluate these effects, two hypothesis tests were conducted using controlled A/B survey experiments.
 
 For Hypothesis Test 1, we investigated the construct of Engagement, guided by the research question: “Do lifestyle product images increase perceived engagement compared to studio images?” The null hypothesis (H₀) stated that lifestyle images do not increase perceived engagement, while the alternative hypothesis (H₁) proposed that they do increase engagement.
 
 For Hypothesis Test 2, we examined purchase-related perceptions, specifically Trust and Information Clarity, based on the research question: “Do lifestyle product images improve purchase-related perceptions?” The null hypothesis (H₀) stated that lifestyle images do not improve Trust or Information Clarity, while the alternative hypothesis (H₁) proposed that they do enhance these perceptions.
-
-
-
 
 ## Methodology [_For survey research, describe the survey design, sampling method, and data collection process. For A/B testing, explain the experiment setup, control/treament groups, and metrics for evaluation_]
 
@@ -48,7 +45,6 @@ The data collection was executed via two survey variants, A and B, distributed a
 The assessment itself was streamlined, utilizing six focused rating statements per product on a 5-point scale (1 = Strongly Disagree to 5 = Strongly Agree) to ensure high completion rates with shorter and faster survey. These statements measured three core factors: Engagement (E-1: attention capture, E-2: imaginative ownership), Perceived Trust (PT-1: confidence in real-life appearance, PT-2: reliability perception), and Purchase Intent (PI-1: motivation to seek price/reviews, PI-2: likelihood of selection). 
 
 Demographically, gender was included as a control variable due to its established influence in visual perception studies. Geographic data collected both nationality and country of greatest exposure to capture the cultural context underlying trust and aspiration. Furthermore, the Age options were specifically granulated in the 18–29 range (18–20, 21–24, 25–29) to be statistically optimal for the primary accessible community (university students and young professionals). This finer split was essential for observing nuanced shifts in response within a life stage (e.g., first job, increased disposable income) highly relevant to the study of aspirational e-commerce imagery.
-
 
 ## Results  [_Present and analyse the data collected using appropriate statistical or analytical methods. Include relevant data visualizations and explain their significance_]
 
@@ -79,20 +75,15 @@ There are also a number of potential biases to be considered. Since the survey w
 
 Besides biases and limitations, we had some challenges as well. The primary challenge could be not being able to test our survey on a real website, which would have provided more accurate data. Finding variety of participants from different demographics and age groups could be another challenge. The majority of the participants were from Hungary or Azerbaijan and between 21-29 ages, which had an impact on the sample's diversity as well. 
 
-
 ## Recommendations  [_Summarise the key insights from the project and suggest specific, actionable business or real-world applications. Where relevant, prioritise your recommendations and explain their expected impact_]
 
-(Key insights:)
+In conclusion, based on the findings, product image styles have a significant impact on customer intention. The average scores for engagement and information clarity were higher for lifestyle photos. According to this, pictures of products with real-life content help buyers visualize it better, comprehend their dimensions or function, and feel more secure about their assessment. While age, nationality, and geographic location did not significantly affect the results, g ender was the only demographic factor that had a significant impact where female respondents had higher overall purchase intention. 
 
-Actionable business or real-world applications:
-
-(Recommendations and their expected impact)
-
+Based on the findings, several recommendations could be made for e-commerce businesses. Firstly, since lifestyle images help customers to establish more realistic expectations regarding size, fitness and function, retailers should give priority to having lifestyle photos in addition to studio pictures. Secondly, lifestyle images can be especially helpful for products where their dimensions or use is not immediately apparent. This can help to minimize customer confusion and possible returns. Lastly, business should also have studio-style images as it can also support customer trust.
 
 ## Reflection on Team Process 
 
 We successfully used collaborative features of Github by creating brunches and pull requests and then merging them. Teamwork and collaboration went smooth with team members being equally involved and supportive of each other. We implemented Agile methodologies by having sprint meetings where we distributed our roles, goals, and deadlines and documented it. We had quick standups/calls where we solved occuring problems if someone was stuck or needed guidance with Github. Majority of communication was done through Teams calls and group chat. Before first call, we have agreed to do literature review on the topic indvidually and during the call we distributed research report sections we are responsible for. However, soon enough after the call, we noticed that the writing cannot be coordinated well before we design the survey and collect data, hence there was another call organized during which we did iteration of our plans and redistributed tasks according to both functions and writing sections. Akmaral took responsibility for designing the survey, writing methodology section, guiding the github use, as well as documenting and guiding the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. And Aydan helped to finish writing the report collecting references and finalizing the document.
-
 
 
 ## References and Appendices
@@ -110,10 +101,3 @@ Kim, Y. K. and Sullivan, P. (2019). Emotional branding speaks to consumers ‘he
 Komolov, A. (2025). eCommerce return rate statistics and insights for 2025. Outvio [online]. Available at: eCommerce Return Rate Statistics and Insights 2025 [Accessed on 15 Nov. 2025]
 
 Wang, J., Wang, A., Zhu, L. and Wang, H. (2021) The Effect of Product Image Dynamism on Purchase Intention for Online Aquatic Product Shopping: An EEG Study. Behavioural Neurology, 2021, pp. 1–11. DOI: 10.2147/PRBM.S313742
-
-
-
-
-
-
-
