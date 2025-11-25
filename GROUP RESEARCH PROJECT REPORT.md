@@ -5,8 +5,6 @@
 2. Abdubalieva Akmaral
 3. Aguilar Attila Sebastian
 
-reqs: between 1,800 and 2,200 words, excluding code snippets, tables, and data visualizations; structure, clarity, use of tables, lists, and code blocks (as applicable).
-
 ## Declaration
 ChatGPT 5.0 was used to brainstorm and research key concepts for this group research project report on image style perception. 
 Prompts: 
@@ -16,21 +14,21 @@ Prompts:
 No AI-generated text is included in the final submission. Accessed: [15.10.2025]. Available at: https://chat.openai.com/.
 We have retained a complete set of raw data, including questionnaires (papers completed by hand or record downloaded from the online survey platform), recordings, and/or transcripts of interviews, secondary data, etc., as well as data analysis files and documents. 
 
-## Executive Summary  [_A concise overview of the business problem, research objectives, key findings, and actionable recommendations. This section should be no longer than 250 words and written so that a decision-maker could understand the main outcomes without reading the full report._]
+## Executive Summary
 
 Evident growth of e-commerce (Karl, 2024) has increased the scope of strategies to attract customers and boost sales. Among many strategies and tools, product presentation style remains as a major consumer behavior factor (Musyarrofah, 2024). However, there are several styles existing in this field, and all require complex consumer analysis. Our research focused on perception analysis of two presentation styles in ecommerce, studio and lifestyle images, to help VistaCommerce company, a global software that provides online retailers with design and optimisation tools and mainly operates in fashion, home goods, and cosmetics industries. In order to assist company’s clients in choosing between two styles, our team conducted A/B test using a product from fashion sector (glasses) and a home goods product (lamp). 
 
 The main aim of the research was to examine the relationship between image style and consumers' engagement, perceived trust, and purchase intent and provide applicable insights towards decision-making of VistaCommerce company.
  
-(key findings:)
+(key findings in short:)
 
 (Atilla)
 
-(actionable recommendations:)
+(actionable recommendations in short:)
 
 Combine both for more efficiency and coverage of consumer preferences. If had to choose one only , then the _ image style. 
 
-## Introduction [_Clearly define your research question, hypothesis (for A/B testing), or objective (for survey research)_]
+## Introduction
 
 Online shopping is becoming more frequent and valuable as a result of the growth in the number of people using the Internet on a daily basis. Consequently, majority of the companies pay more attention to the pictures of products to advertise on their websites. However, nowadays picture styles have became more complex and require a deeper understanding of human psychology. This study aims to examine how different product image styles influence user perceptions in an online shopping context, with a specific focus on determining whether lifestyle imagery provides measurable advantages over traditional studio photography. The goal is to assess whether lifestyle images lead to higher perceived Engagement and whether they improve purchase-related perceptions two constructs that play a central role in online decision-making. To evaluate these effects, two hypothesis tests were conducted using controlled A/B survey experiments.
 
@@ -38,7 +36,7 @@ For Hypothesis Test 1, we investigated the construct of Engagement, guided by th
 
 For Hypothesis Test 2, we examined purchase-related perceptions, specifically Trust and Information Clarity, based on the research question: “Do lifestyle product images improve purchase-related perceptions?” The null hypothesis (H₀) stated that lifestyle images do not improve Trust or Information Clarity, while the alternative hypothesis (H₁) proposed that they do enhance these perceptions.
 
-## Methodology [_For survey research, describe the survey design, sampling method, and data collection process. For A/B testing, explain the experiment setup, control/treament groups, and metrics for evaluation_]
+## Methodology 
 
 The data collection was executed via two survey variants, A and B, distributed among accessible communities (university, workplace, online communities, etc.) through a platform which simulates A/B test control environment by evenly redirecting respondents to one of the surveys[nimblelinks.com]. This approach was a pragmatic alternative to utilizing a live retailer platform, prioritizing internal validity by isolating the image style as the sole manipulated variable while measuring operationalized metrics using Likert scales. To control for the inherent product bias, two distinct product categories—a table lamp (home goods) and sunglasses (fashion)—were assessed. The use of dual products allowed for an evaluation of whether visual perception effects vary significantly across product categories. To ensure the observed effects were due to image style and not item preference, two products were used. This approach provides data to quantify and mitigate the influence of inherent product liking, despite the controls put in place, such as being asked to assume the product fits their preferences.
 
@@ -50,7 +48,7 @@ Demographically, gender was included as a control variable due to its establishe
 
 To check whether image style made a difference, we applied several statistical tests. First, we ran independent-samples t-tests to compare Version A (studio images) and Version B (lifestyle images) for each construct. We also used paired-samples t-tests to see whether people rated the Lamp and the Glasses differently within the same image condition. In addition, we conducted one-way ANOVAs to explore whether demographics such as: Gender, Age, Nationality, and Most Exposed Country (MEC) affected the results. All tests used a significance level of p < 0.05.
 
-## Results  [_Present and analyse the data collected using appropriate statistical or analytical methods. Include relevant data visualizations and explain their significance_]
+## Results  
 
 Lifestyle images had some clear effects on how people rated the products, but these effects didn’t show up the same way for everything we measured. In general, Version B (the lifestyle photos) made people feel more engaged with the products and also made the images feel a bit clearer. Meanwhile, Version A (the usual studio photos) still came across as slightly more trustworthy overall.
 
@@ -69,7 +67,7 @@ Figure 1. Comparison of Studio (A) vs. Lifestyle (B) Image Styles Across Constru
 
 Source: self-edited; The red bars (Version B) rise above the blue bars for Engagement and Information Clarity, showing the positive effect of lifestyle presentation. Meanwhile, the blue bars (Version A) remain marginally higher for Trust, reflecting the credibility advantage of the studio-style imagery.
 
-## Discussion [_Synthesize your results, citing min. five (5) sources and authors; discuss the implications of your findings; and critically assess the research. Address any limitations, biases, or challenges faced_]
+## Discussion
 
 As accordance to Li, Wang and Chen (2014), product images are one of the primary channels for online consumers to assess the quality and the design of the products. Moreover, it has been also examined that pictures containing social presence signals, especially human models, not only tend to increase customer’s trust and intention to purchase but also, appearance of human images would make brand websites more trustworthy. However, based on our survey results, even though life-style pictures outperformed across most concepts specially for engagement and information clarity, trust score was slightly higher for studio images. For both products, participants rated studio-styled images more trustworthy than lifestyle images. Therefore, it is worth to note that this might be dependent on the type of products. Additionally, the reason behind this uncorrelation could be related to the quality of pictures. In fact, studio images would provide clearer presentations which would satisfy customers from the quality point of view. 
 
@@ -81,7 +79,7 @@ There are also some potential biases to be considered. Since the survey was base
 
 Besides biases and limitations, we had some challenges as well. The primary challenge could be not being able to test our survey on a real website that would have provide more accurate data. Finding variety of participants from different demographics and age groups could be another challenge. The majority of the participants were from Hungary or Azerbaijan and between 21-29 ages, which had an impact on the sample's diversity as well. 
 
-## Recommendations  [_Summarise the key insights from the project and suggest specific, actionable business or real-world applications. Where relevant, prioritise your recommendations and explain their expected impact_]
+## Recommendations 
 
 In conclusion, based on the findings, product image styles have a significant impact on customer intention. The average scores for engagement and information clarity were higher for lifestyle photos. ATherefore, pictures of products with real-life content help buyers visualize it better, comprehend their dimensions or function, and feel more secure about their assessment. While age, nationality, and geographic location did not significantly affect the results, gender was the only demographic factor that had a significant impact where female respondents had higher overall purchase intention. 
 
@@ -89,7 +87,7 @@ Based on the findings, several recommendations could be made for e-commerce busi
 
 ## Reflection on Team Process 
 
-We successfully used collaborative features of GitHub by creating brunches and pull requests and then merging them. Teamwork and collaboration went smoothly with team members being equally involved and supportive of each other. We implemented Agile methodologies by having sprint meetings where we distributed our roles, goals, and deadlines and documented it. We had quick standups/calls where we solved occurring problems if someone was stuck or needed guidance with GitHub. Majority of communication was done through Teams calls and group chat. Before first call, we agreed to do literature review on the topic individually and during the call we distributed research report sections we are responsible for. However, soon enough after the call, we noticed that the writing cannot be coordinated well before we design the survey and collect data, hence there was another call organized during which we did iteration of our plans and redistributed tasks according to both functions and writing sections. Akmaral took responsibility for designing the survey, writing methodology section, guiding the GitHub use, as well as documenting and guiding the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. And Aydan helped to finish writing the report collecting references, finalizing the document and preparing presentation slides.
+We successfully used collaborative features of GitHub by creating brunches and pull requests and then merging them, as well as creating, tracking and closing issues. Teamwork and collaboration went smoothly with team members being equally involved and supportive of each other. We implemented Agile methodologies by having sprint meetings where we distributed our roles, goals, and deadlines and documented it. We had quick standups/calls where we solved occurring problems if someone was stuck or needed guidance with GitHub. Majority of communication was done through Teams calls and group chat. During sprint planning calls we distributed tasks according to both functions and writing sections, and did iteration of our plans and progress continuously checking the output. Akmaral took responsibility for designing the survey, writing methodology section, guiding the GitHub use, as well as documenting and guiding the team process. The function of performing the analysis and writing results was agreed to be taken by Atilla. And Aydan helped to finish writing the report, ensuring it meets requirements, collecting references, finalizing the document and preparing presentation slides.
 
 
 ## References and Appendices
