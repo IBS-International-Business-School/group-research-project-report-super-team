@@ -97,3 +97,59 @@ Kim, Y. K. and Sullivan, P. (2019). Emotional branding speaks to consumers ‘he
 Komolov, A. (2025). eCommerce return rate statistics and insights for 2025. Outvio [online]. Available at: eCommerce Return Rate Statistics and Insights 2025 [Accessed on 15 Nov. 2025]
 
 Wang, J., Wang, A., Zhu, L. and Wang, H. (2021) The Effect of Product Image Dynamism on Purchase Intention for Online Aquatic Product Shopping: An EEG Study. Behavioural Neurology, 2021, pp. 1–11. DOI: 10.2147/PRBM.S313742
+
+Appendix A: Survey Questions for Verison A
+<img width="957" height="630" alt="image" src="https://github.com/user-attachments/assets/b10c46e2-80e3-471b-bbfc-cbf108ed78ee" />
+<img width="945" height="711" alt="image" src="https://github.com/user-attachments/assets/cf915daf-54b1-498e-88e3-762d25b3d76b" />
+<img width="925" height="280" alt="image" src="https://github.com/user-attachments/assets/6eba7c3c-c23b-45ed-9029-58b7d526d198" />
+<img width="942" height="147" alt="image" src="https://github.com/user-attachments/assets/8dbc0788-8e73-4bca-aecf-884d13685dae" />
+<img width="398" height="473" alt="image" src="https://github.com/user-attachments/assets/76d16f90-a046-49de-bd07-088375d99267" />
+<img width="923" height="540" alt="image" src="https://github.com/user-attachments/assets/42bb96de-5a08-46b4-a9ba-f0660c173701" />
+<img width="933" height="541" alt="image" src="https://github.com/user-attachments/assets/ddd6f65d-86e6-41a8-a889-2e0eec8df0b0" />
+<img width="946" height="567" alt="image" src="https://github.com/user-attachments/assets/40aa1d23-3e78-43e2-8b16-237267e4fc29" />
+<img width="942" height="152" alt="image" src="https://github.com/user-attachments/assets/f4791248-a028-4582-b1f3-364441d8da1c" />
+<img width="558" height="430" alt="image" src="https://github.com/user-attachments/assets/e17e97d6-1b47-4f76-9cfe-468293e947ee" />
+<img width="957" height="553" alt="image" src="https://github.com/user-attachments/assets/eb7e59fb-66ec-455e-883c-05de58a713de" />
+<img width="942" height="530" alt="image" src="https://github.com/user-attachments/assets/ed843efd-d3ed-4fda-8ff4-553ecb2896c6" />
+<img width="936" height="561" alt="image" src="https://github.com/user-attachments/assets/7f226796-baec-401c-a26a-218153e8b661" />
+
+Appendix B: Survey Questions for Verison B
+
+<img width="921" height="585" alt="image" src="https://github.com/user-attachments/assets/5dca1727-9957-41b8-a76d-181170d388e6" />
+<img width="940" height="697" alt="image" src="https://github.com/user-attachments/assets/c5485b13-1ab8-4b38-aa2e-31e2f5c01958" />
+<img width="925" height="280" alt="image" src="https://github.com/user-attachments/assets/06e99494-b98e-4f01-a595-fa204a3d3636" />
+<img width="937" height="150" alt="image" src="https://github.com/user-attachments/assets/4b908ee3-4c5f-41d3-9b7a-7bc691c45d6e" />
+<img width="521" height="548" alt="image" src="https://github.com/user-attachments/assets/4cc58811-06bf-480c-beae-f3bb7b43a273" />
+<img width="933" height="768" alt="image" src="https://github.com/user-attachments/assets/2b793c45-3690-4ac1-9c06-f8b649b9bb33" />
+<img width="918" height="502" alt="image" src="https://github.com/user-attachments/assets/6349de77-923d-44d3-8701-715e8f614e32" />
+<img width="907" height="245" alt="image" src="https://github.com/user-attachments/assets/5e74eeba-8078-4c97-82ca-5b5166553274" />
+<img width="923" height="127" alt="image" src="https://github.com/user-attachments/assets/eb94bde1-6faf-4c66-8c38-5f2cae982f60" />
+<img width="517" height="526" alt="image" src="https://github.com/user-attachments/assets/96be267e-f498-40e3-9f73-17a896b4930c" />
+<img width="908" height="761" alt="image" src="https://github.com/user-attachments/assets/305542ee-6df2-4176-8b1d-4f955f7577b8" />
+<img width="922" height="497" alt="image" src="https://github.com/user-attachments/assets/e07b08d3-7a85-4a4c-bd81-6f88f7478df8" />
+<img width="920" height="242" alt="image" src="https://github.com/user-attachments/assets/986c01d7-553c-489d-b3a9-86dcbc459c1b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
