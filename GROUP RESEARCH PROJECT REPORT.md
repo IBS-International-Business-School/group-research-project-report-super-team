@@ -1,4 +1,6 @@
 # Group Research Project Report
+GitHub Repository Link:
+https://github.com/IBS-International-Business-School/group-research-project-report-super-team/blob/main/GROUP%20RESEARCH%20PROJECT%20REPORT.md 
 
 ## Team Members:
 1. Sadigova Aydan
